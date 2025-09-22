@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatchandu848&label=Profile%20views&color=0e75b6&style=flat" alt="venkatchandu848" /> </p>
 
 <h1 align="center">Hi 👋, I'm Venkat Chandu</h1>
-<h3 align="center">Aspiring to be ML/AI Engineer</h3>
+<h3 align="center">Aspiring to be ML/AI Engineer/ Data Scientist</h3>
 
 - 🌍 I'm based in Wolfsburg, Germany
 - 📚 I'm currently studying Masters in Mechatronics at Universität Siegen, Germany.
