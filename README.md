@@ -8,7 +8,7 @@
 - 📚 Masters in Mechatronics at Universität Siegen, Germany.
 - 🔭 Master Thesis - Understanding the Learned Transformation of Patches into Tokens of Vision Transformers at Volkswagen AG.
 - 🌱 Learning Gen AI, Agentic AI workflows
-- 👨‍💻 All of my projects are available at **[https://github.com/venkatchandu848](https://github.com/venkatchandu848)**
+- 👨‍💻 All of my projects are available at **[https://github.com/venkatchandu848](https://github.com/venkatchandu848?tab=repositories)**
 - 📫 You can reach me at **venkatchandu848@gmail.com** for any future work.
 - 🧠 I'm more interested in learning state of the art AI technology.
 
